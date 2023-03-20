@@ -15,7 +15,7 @@ title: "Briefing: Turning"
 
 ---
 
-# ![[Adverse Yaw]]
+# [[Adverse Yaw]]
 
 ---
 
