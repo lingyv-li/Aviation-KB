@@ -2,16 +2,6 @@
 title: "Briefing: Turning"
 ---
 
-# Introduction to Turning
-
-- Aerodynamic forces acting on the aeroplane during a turn
-- Different types of turns
-- Spiral dive introduction
-- Instrument indications
-- Application in flight
-
----
-
 # Aerodynamic Forces in a Turn
 
 1. Lift
