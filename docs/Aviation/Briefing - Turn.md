@@ -25,7 +25,7 @@ title: "Briefing: Turning"
 
 ---
 
-# ![[Adverse Yaw]]
+# [[Adverse Yaw]]
 
 ---
 
@@ -45,18 +45,18 @@ title: "Briefing: Turning"
 
 - Stall speed
 	- Increases as the Angle of Bank increases.
-		- At $30\degree$, 107% of normal stall speed
-		- At $45\degree$, 119% of normal stall speed
-		- At $60\degree$, 141% of normal stall speed
-		- At $75\degree$, 200% of normal stall speed
+		- At $30°$, 107% of normal stall speed
+		- At $45°$, 119% of normal stall speed
+		- At $60°$, 141% of normal stall speed
+		- At $75°$, 200% of normal stall speed
 - Load factor
 	- What
 		- $\frac{\text{Experienced g-force}}{\text{normal g-force}}$ or $\frac{\text{lift}}{\text{weight}}$
 		- You will feel heavier.
 	- Increases as the Angle of Bank increases.
-		- At $30\degree$, $L/F=1.15$
-		- At $45\degree$, $L/F=1.4$
-		- At $60\degree$, $L/F=2$
+		- At $30°$, $L/F=1.15$
+		- At $45°$, $L/F=1.4$
+		- At $60°$, $L/F=2$
 
 
 ---
