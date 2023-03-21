@@ -1,4 +1,5 @@
 site_name: obsidian-mkdocs template
+site_url: https://lingyv-li.github.io/Public-KB/
 
 theme:
     name: 'material'
@@ -47,7 +48,7 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
-  # - embed_file
+  - embed_file
 
 extra_css:
   - https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css
