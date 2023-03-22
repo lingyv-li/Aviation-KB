@@ -5,12 +5,12 @@ title: "Briefing: Turning"
 # Aerodynamic Forces in a Turn
 
 1. Lift
-   - Increased in level turns
-   - Divided into vertical and horizontal components
+	- Increased in level turns
+	- Divided into vertical and horizontal components
 2. Drag
-   - Increases with increased angle of attack
+	- Increases with increased angle of attack
 3. Centripetal Force 向心力
-   - Provided by the horizontal component of lift.
+	- Provided by the horizontal component of lift.
 4. Centrifugal Force 离心力
 
 ---
