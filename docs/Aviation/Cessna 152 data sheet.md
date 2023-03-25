@@ -3,11 +3,11 @@
 | Slow        | 2000 RPM | 1-2 Fingers                | 65 - 70 Kts |
 | Safe Slow   | 2100 RPM | 2-3 Fingers + 1 stage flap | 65 - 70 Kts |
 | Normal      | 2350 RPM | 3-4 Fingers                | 90-95 Kts   |
-| Normal      | 2500 RPM | 4-5 Fingers                | 95-100 Kts  |
+| Fast        | 2500 RPM | 4-5 Fingers                | 95-100 Kts  |
 
 | Climb Type    | Attitude               | Performance | Power |
 | ------------- | ---------------------- | ----------- | ----- |
-| Cruise        | Nose on horizon        | 500 FPM     | Full  |
+| Cruise        | Nose on horizon        | 65-75       | Full  |
 | VY Best Rate  | Nose above horizon     | 67          | Full  |
 | VX Best Angle | Handle Bars on horizon | 55          | Full  |
 
