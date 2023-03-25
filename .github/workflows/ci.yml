@@ -20,9 +20,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v4
         with:
           python-version: 3.x
+          cache: 'pip' # caching pip dependencies
       - run: pip install -r requirements.txt
       - run: mkdocs build
       - uses: actions/upload-pages-artifact@v1
