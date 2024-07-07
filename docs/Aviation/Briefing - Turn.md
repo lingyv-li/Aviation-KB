@@ -64,7 +64,7 @@ title: "Briefing: Turning"
 		- Balance: Rudder
 		- Pitch: Elevator
 - Maintenance
-	- [[LAP Check]]
+	- [[ALAP]]
 - Exit
 	- Anticipate ($1/3$ AoB)
 	- Initiate
