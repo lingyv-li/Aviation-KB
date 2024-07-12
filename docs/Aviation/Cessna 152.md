@@ -44,8 +44,8 @@
 AVGAS 100 LL (blue) or AVGAS 100 (green)
 
 - Taxi fuel: 3 litres
-- Fuel burn per hour: 35 litres per hour
-- Reserve: 0.5 hours
+- Fuel burn per hour: 25 litres per hour
+- Reserve: legally 0.5 hours, flight school 0.75 hours
 
 ## Static source
 Alternate static source: break glass in [[Vertical Speed Indicator|VSI]]
