@@ -55,3 +55,8 @@ Single-slotted Fowler flaps
 
 ## Aileron
 Differential Frise ailerons to counteract [[adverse yaw]].
+
+## Landing gear pressure
+- Nose: 30 PSI
+	- Strut: MIL-H-5606 hydraulic fluid and air to 20 PSI.
+- Main: 21 PSI
